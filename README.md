@@ -1,6 +1,8 @@
 # TicTacToe-Java
 A classic Tic Tac Toe game built with Java Swing GUI framework. Features a clean, modern interface with score tracking and game statistics.
+
 <img width="1574" height="926" alt="Screenshot 2025-09-25 001216" src="https://github.com/user-attachments/assets/94b64134-c6e6-4335-b227-a84ca449a387" />
+
 Clean, modern interface with color-coded players and score tracking
 
 🎮 Features
@@ -26,7 +28,8 @@ Architecture: Object-Oriented Design
 Design Pattern: Event-Driven Programming
 
 TicTacToe-Java/
-│
+
+
 ├── App.java                 # Main application entry point
 
 ├── TicTacToeGui.java       # Main game GUI and logic
