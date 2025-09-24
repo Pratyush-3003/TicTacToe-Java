@@ -28,6 +28,9 @@ Design Pattern: Event-Driven Programming
 TicTacToe-Java/
 │
 ├── App.java                 # Main application entry point
+
 ├── TicTacToeGui.java       # Main game GUI and logic
+
 ├── CommonConstants.java    # Color and size configurations
+
 └── README.md              # Project documentation
